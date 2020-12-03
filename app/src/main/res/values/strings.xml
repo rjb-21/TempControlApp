@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sterowanie Temperaturą TREND</string>
+    <string name="button">button</string>
+
+    <string name="Synt_opis">
+        Aby sprawdzić temperaturę, naciśnij ten</string>
+
+    <string name="komfort_opis">
+        Aby ustawić tryb komfort, naciśnij ten</string>
+
+    <string name="czuwanie_opis">
+        Aby ustawić tryb czuwania, naciśnij ten</string>
+    <string name="VR_opis">
+        Aby wydawać komendy głosowe, naciśnij ten</string>
+</resources>
